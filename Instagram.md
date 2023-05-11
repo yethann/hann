@@ -1,1 +1,1 @@
-[OpenAI website](https://https://www.instagram.com/yh02128/)
+[OpenAI website](https://www.instagram.com/yh02128/)
