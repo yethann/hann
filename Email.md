@@ -1,1 +1,1 @@
-[OpenAI website](https://mail.google.com/mail/u/0/#inbox)
+[OpenAI website](https://mail.google.com/?)https://mail.google.com/?
