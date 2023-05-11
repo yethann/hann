@@ -1,0 +1,8 @@
+Beautify your code
+https://mkyong.com/vscode/how-to-format-source-code-in-visual-studio-code-vscode/
+
+CSS
+https://www.w3schools.com/css/css_howto.asp
+
+CSS Flexbox
+https://www.w3schools.com/cssref/tryit.php?filename=trycss3_align-items

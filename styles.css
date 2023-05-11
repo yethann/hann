@@ -1,0 +1,80 @@
+body {
+    background-color: #967BB6 ;background-size: 1440px;
+    font-family: Bloodcrow
+}
+
+/* color start */
+
+
+#B100 {
+    color:#967BB6
+}
+#B200 {
+    color:#6F499B
+}
+#B300 {
+    color:#64408F
+}
+#B400 {
+    color:#4C2C73
+}
+#B500 {
+    color:#D9D9D9
+}#B600 {
+    color:#FFFFFF
+}
+
+
+/* Div Box Color Start */
+
+#BoxCategory_1 {
+ background-color: #e0241a
+ 100%;
+}
+#BoxCategory_2 {
+    background-color: #f2db0b; 
+}
+#BoxCategory_3 {
+    background-color: #31e409;
+   }
+#BoxCategory_4 {
+    background-color: #09fcdb; 
+}
+#BoxCategory_5 {
+    background-color: #1605f7; 
+}
+#BoxCategory_6 {
+    background-color: #fb06e7; 
+}
+
+#BoxCategory_7 {
+    background-color: #4C2C73; 
+}
+
+#BoxCategory_8 {
+    background-color: #64408F; 
+}
+
+
+/* Homepage */
+
+
+
+    @font-face {
+        font-family: myFirstFont;
+        src: url(item/bloodcrow.ttf);
+    }
+
+    div {
+        font-family: myFirstFont;
+    }
+    
+
+body {
+background-color: #967BB6 ;
+}
+
+
+
+
+  
